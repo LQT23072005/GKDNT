@@ -39,3 +39,10 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+.env
+.env.local
+
+
+# Local Expo QR code (changes with Wi-Fi address)
+demo/expo-go.png

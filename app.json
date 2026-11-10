@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TTTT",
-    "slug": "TTTT",
+    "name": "Shop CRUD",
+    "slug": "shop-crud-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
